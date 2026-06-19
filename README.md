@@ -2,6 +2,8 @@
 
 A lightweight automation script to streamline filling out the Course Teaching Evaluation Form on the Universiti Sultan Azlan Shah (USAS) VirtualCampus portal (`http://vcampus.usas.edu.my/`).
 
+![Preview](./preview.jpg)
+
 ## Features
 - **Instant Ratings:** Automatically selects `5` (*SANGAT MEMUASKAN / EXTREMELY SATISFACTORY*) for all evaluation criteria.
 - **Automatic Remarks:** Populates all comment boxes with a default positive remark (`Terbaik!`).
